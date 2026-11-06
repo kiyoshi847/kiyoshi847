@@ -1,36 +1,48 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E3B34&height=180&section=header&text=idev&fontSize=46&fontAlignY=42&fontColor=F6F3EC&desc=Software%20engineer%20%C2%B7%20Tokyo&descSize=16&descAlignY=66&animation=fadeIn" width="100%" alt="idev"/>
+<halign="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+idev+%F0%9F%91%8B;Software+Engineer+%7C+Tokyo;Building+Mobile+%26+Web+Apps" alt="Typing SVG" />
+</halign>
 
-  Làm sản phẩm giáo dục chạy trên điện thoại và web, kèm game mobile.
+<p align="center">
+  <b>Software Engineer</b> làm các sản phẩm giáo dục chạy trên điện thoại và web, kèm game mobile tại Tokyo.
+</p>
 
-  <a href="https://www.solopvn.com"><img src="https://img.shields.io/badge/solopvn.com-0E3B34?style=for-the-badge" alt="solopvn.com"/></a>
-  <a href="https://apps.apple.com/us/app/s%E1%BB%95-l%E1%BB%9Bp-qu%E1%BA%A3n-l%C3%BD-l%E1%BB%9Bp-h%E1%BB%8Dc/id6824365316"><img src="https://img.shields.io/badge/App_Store-17212B?style=for-the-badge&logo=appstore&logoColor=white" alt="App Store"/></a>
-  <a href="mailto:admin@solopvn.com"><img src="https://img.shields.io/badge/admin@solopvn.com-1F8A70?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</div>
+<p align="center">
+  <a href="https://www.solopvn.com"><img src="https://img.shields.io/badge/solopvn.com-0284C7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
+  <a href="https://apps.apple.com/app/id6824365316"><img src="https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white" alt="App Store"></a>
+  <a href="mailto:lehoanganh.dev2809@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-## Sổ Lớp
+---
 
-Sản phẩm đang chạy. Giáo viên tự mở lớp dùng Sổ Lớp để điểm danh, nhận xét, chấm bài và chốt học phí. Gia đình xem đúng một em bằng mã 8 ký tự, trong ứng dụng hoặc trên web.
+## 🚀 Dự án nổi bật
 
-| | |
-| --- | --- |
-| Ứng dụng | Flutter. Sổ nằm trên máy, đẩy lên mạng khi có kết nối. |
-| Trang web | Giới thiệu, chuyển khoản gói Pro, cổng gia đình đóng học phí. |
-| Đang phát hành | [solopvn.com](https://www.solopvn.com) và [App Store](https://apps.apple.com/us/app/s%E1%BB%95-l%E1%BB%9Bp-qu%E1%BA%A3n-l%C3%BD-l%E1%BB%9Bp-h%E1%BB%8Dc/id6824365316). |
+| Dự án | Mô tả | Nền tảng & Công nghệ |
+| :--- | :--- | :--- |
+| **[Sổ Lớp](https://www.solopvn.com)** | Sổ điểm danh và học phí cho giáo viên. Giáo viên tự mở lớp quản lý điểm, nhận xét, chấm bài và chốt học phí. Phụ huynh tra cứu bằng mã 8 ký tự. | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![App Store](https://img.shields.io/badge/App_Store-000-white?style=flat&logo=apple) |
+| **Chùa Online 5.0** | Trò chơi mô phỏng trực tuyến kết hợp không gian ảo tương tác cộng đồng. | ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=flat&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) |
 
-## Phạm vi
+---
 
-| Ứng dụng | Website | Game |
-| --- | --- | --- |
-| Flutter cho iOS và Android. Sổ lớp, điểm, học phí, gia hạn gói. | Trang giới thiệu, cổng người dùng, thanh toán. | Game mobile làm bằng Unity. |
+## 🛠️ Công nghệ & Công cụ
 
-## Công cụ
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,js,ts,csharp,unity,supabase,vercel,git,linux,vscode,neovim&perline=6" alt="Tech Stack Icons" />
+</p>
 
-Flutter · Dart · JavaScript · TypeScript · C# · Unity · Supabase · Vercel
+- **Mobile & Frontend:** Flutter, Dart, React, Next.js, Tailwind CSS
+- **Backend & Database:** Supabase, Node.js, REST APIs
+- **Game Development:** Unity, C#, Nakama Backend
+- **Environment:** Arch Linux, macOS, Git, Vercel, Cloudflare
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=kiyoshi847&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=F6F3EC&title_color=0E3B34&text_color=17212B&icon_color=1F8A70" alt="GitHub stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiyoshi847&layout=compact&hide_border=true&bg_color=F6F3EC&title_color=0E3B34&text_color=17212B&langs_count=6" alt="Top languages"/>
-</div>
+---
 
-<div align="center">iDev · Tokyo</div>
+## 📊 Thống kê GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kiyoshi847&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&text_color=c0caf5&icon_color=7aa2f7" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiyoshi847&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&text_color=c0caf5" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiyoshi847&theme=tokyonight&hide_border=true&background=1a1b26" alt="GitHub Streak" width="100%" />
+</p>
